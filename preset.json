@@ -5,8 +5,7 @@
     "@vue/cli-plugin-eslint": {
       "config": "airbnb",
       "lintOn": [
-        "save",
-        "commit"
+        "save"
       ]
     },
     "@vue/cli-plugin-unit-jest": {}
@@ -14,5 +13,5 @@
   "router": true,
   "routerHistoryMode": true,
   "vuex": true,
-  "cssPreprocessor": "sass"
+  "cssPreprocessor": "dart-sass"
 }
